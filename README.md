@@ -53,3 +53,8 @@ Contact page: http://localhost:3000/contact
 
 Invalid route: http://localhost:3000/xyz
  → Shows custom 404 page
+
+ <img width="1849" height="919" alt="Screenshot 2025-11-14 225811" src="https://github.com/user-attachments/assets/8e5e98be-f200-41df-9787-4a616439dfaf" />
+ 
+<img width="1920" height="1080" alt="Screenshot 2025-11-14 230117" src="https://github.com/user-attachments/assets/a7728491-5084-48df-b7a5-71daf0c85217" />
+
